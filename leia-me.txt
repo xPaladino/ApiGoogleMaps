@@ -1,0 +1,7 @@
+verificar as dependências em
+- conexao
+- consultas
+- mapa
+- servidor
+
+instalar as mesmas para poder rodar
