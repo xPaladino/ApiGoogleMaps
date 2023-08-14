@@ -1,0 +1,1 @@
+colocar os arquivos .pem e .key aqui nessa pasta e referenciar no arquivo SERVIDOR

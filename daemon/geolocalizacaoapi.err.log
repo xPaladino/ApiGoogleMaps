@@ -1,0 +1,1534 @@
+Erro: Error: Command failed: node servidor.js
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 4294967295,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 4294967295,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+c:\laragon\servidor.js:42
+httpsServer.listen(PORT, () => {
+                   ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (c:\laragon\servidor.js:42:20)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.17.0
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}
+Erro: Error: Command failed: node servidor.js
+
+    at ChildProcess.exithandler (node:child_process:419:12)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12) {
+  code: 4294967295,
+  killed: false,
+  signal: null,
+  cmd: 'node servidor.js'
+}

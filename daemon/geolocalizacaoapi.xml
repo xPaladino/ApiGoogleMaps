@@ -1,0 +1,31 @@
+<service>
+	<id>geolocalizacaoapi.exe</id>
+	<name>GeoLocalizacaoApi</name>
+	<description>Serviço Node.js para executar o servidor</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>c:\laragon\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>c:\laragon\startServer.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>GeoLocalizacaoApi wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>PNG-SRVAPP4</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>c:\laragon</workingdirectory>
+</service>

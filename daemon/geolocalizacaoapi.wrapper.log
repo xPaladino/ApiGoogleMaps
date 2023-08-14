@@ -1,0 +1,338 @@
+2023-08-07 11:31:46 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-07 11:31:46 - Started 9348
+2023-08-07 11:36:14 - Stopping geolocalizacaoapi.exe
+2023-08-07 11:36:14 - ProcessKill 9348
+2023-08-07 11:36:14 - Found child process: 6436 Name: perfmon.exe
+2023-08-07 11:36:14 - Found child process: 3636 Name: conhost.exe
+2023-08-07 11:36:14 - Found child process: 6348 Name: node.exe
+2023-08-07 11:36:14 - Stopping process 6436
+2023-08-07 11:36:15 - Send SIGINT 6436
+2023-08-07 11:36:15 - SIGINT to 6436 failed - Killing as fallback
+2023-08-07 11:36:15 - Stopping process 3636
+2023-08-07 11:36:15 - Send SIGINT 3636
+2023-08-07 11:36:15 - SIGINT to 3636 failed - Killing as fallback
+2023-08-07 11:36:15 - Found child process: 7816 Name: cmd.exe
+2023-08-07 11:36:15 - Found child process: 11172 Name: conhost.exe
+2023-08-07 11:36:15 - Found child process: 8384 Name: node.exe
+2023-08-07 11:36:15 - Stopping process 11172
+2023-08-07 11:36:15 - Send SIGINT 11172
+2023-08-07 11:36:15 - SIGINT to 11172 failed - Killing as fallback
+2023-08-07 11:36:15 - Stopping process 8384
+2023-08-07 11:36:15 - Send SIGINT 8384
+2023-08-07 11:36:15 - SIGINT to 8384 failed - Killing as fallback
+2023-08-07 11:36:15 - Stopping process 7816
+2023-08-07 11:36:15 - Send SIGINT 7816
+2023-08-07 11:36:15 - SIGINT to 7816 failed - Killing as fallback
+2023-08-07 11:36:15 - Stopping process 6348
+2023-08-07 11:36:15 - Send SIGINT 6348
+2023-08-07 11:36:15 - SIGINT to 6348 failed - Killing as fallback
+2023-08-07 11:36:15 - Stopping process 9348
+2023-08-07 11:36:15 - Send SIGINT 9348
+2023-08-07 11:36:15 - SIGINT to 9348 failed - Killing as fallback
+2023-08-07 11:36:15 - Finished geolocalizacaoapi.exe
+2023-08-07 11:38:48 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-07 11:38:48 - Started 6696
+2023-08-07 11:39:33 - Stopping geolocalizacaoapi.exe
+2023-08-07 11:39:33 - ProcessKill 6696
+2023-08-07 11:39:33 - Found child process: 6792 Name: conhost.exe
+2023-08-07 11:39:33 - Found child process: 4120 Name: node.exe
+2023-08-07 11:39:33 - Stopping process 6792
+2023-08-07 11:39:33 - Send SIGINT 6792
+2023-08-07 11:39:33 - SIGINT to 6792 failed - Killing as fallback
+2023-08-07 11:39:33 - Found child process: 8308 Name: cmd.exe
+2023-08-07 11:39:33 - Found child process: 5608 Name: conhost.exe
+2023-08-07 11:39:33 - Found child process: 452 Name: node.exe
+2023-08-07 11:39:34 - Stopping process 5608
+2023-08-07 11:39:34 - Send SIGINT 5608
+2023-08-07 11:39:34 - SIGINT to 5608 failed - Killing as fallback
+2023-08-07 11:39:34 - Stopping process 452
+2023-08-07 11:39:34 - Send SIGINT 452
+2023-08-07 11:39:34 - SIGINT to 452 failed - Killing as fallback
+2023-08-07 11:39:34 - Stopping process 8308
+2023-08-07 11:39:34 - Send SIGINT 8308
+2023-08-07 11:39:34 - SIGINT to 8308 failed - Killing as fallback
+2023-08-07 11:39:34 - Stopping process 4120
+2023-08-07 11:39:34 - Send SIGINT 4120
+2023-08-07 11:39:34 - SIGINT to 4120 failed - Killing as fallback
+2023-08-07 11:39:34 - Stopping process 6696
+2023-08-07 11:39:34 - Send SIGINT 6696
+2023-08-07 11:39:34 - SIGINT to 6696 failed - Killing as fallback
+2023-08-07 11:39:34 - Finished geolocalizacaoapi.exe
+2023-08-07 11:39:47 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-07 11:39:47 - Started 3912
+2023-08-07 11:39:51 - Stopping geolocalizacaoapi.exe
+2023-08-07 11:39:51 - ProcessKill 3912
+2023-08-07 11:39:51 - Found child process: 10252 Name: conhost.exe
+2023-08-07 11:39:51 - Found child process: 10712 Name: node.exe
+2023-08-07 11:39:51 - Stopping process 10252
+2023-08-07 11:39:51 - Send SIGINT 10252
+2023-08-07 11:39:51 - SIGINT to 10252 failed - Killing as fallback
+2023-08-07 11:39:51 - Found child process: 4588 Name: cmd.exe
+2023-08-07 11:39:52 - Found child process: 9444 Name: conhost.exe
+2023-08-07 11:39:52 - Found child process: 10660 Name: node.exe
+2023-08-07 11:39:52 - Stopping process 9444
+2023-08-07 11:39:52 - Send SIGINT 9444
+2023-08-07 11:39:52 - SIGINT to 9444 failed - Killing as fallback
+2023-08-07 11:39:52 - Stopping process 10660
+2023-08-07 11:39:52 - Send SIGINT 10660
+2023-08-07 11:39:52 - SIGINT to 10660 failed - Killing as fallback
+2023-08-07 11:39:52 - Stopping process 4588
+2023-08-07 11:39:52 - Send SIGINT 4588
+2023-08-07 11:39:52 - SIGINT to 4588 failed - Killing as fallback
+2023-08-07 11:39:52 - Stopping process 10712
+2023-08-07 11:39:52 - Send SIGINT 10712
+2023-08-07 11:39:52 - SIGINT to 10712 failed - Killing as fallback
+2023-08-07 11:39:52 - Stopping process 3912
+2023-08-07 11:39:52 - Send SIGINT 3912
+2023-08-07 11:39:52 - SIGINT to 3912 failed - Killing as fallback
+2023-08-07 11:39:52 - Finished geolocalizacaoapi.exe
+2023-08-07 11:39:59 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-07 11:39:59 - Started 412
+2023-08-07 13:38:17 - Stopping geolocalizacaoapi.exe
+2023-08-07 13:38:17 - ProcessKill 412
+2023-08-07 13:38:17 - Found child process: 9424 Name: conhost.exe
+2023-08-07 13:38:17 - Found child process: 6468 Name: node.exe
+2023-08-07 13:38:17 - Stopping process 9424
+2023-08-07 13:38:17 - Send SIGINT 9424
+2023-08-07 13:38:17 - SIGINT to 9424 failed - Killing as fallback
+2023-08-07 13:38:17 - Found child process: 8552 Name: cmd.exe
+2023-08-07 13:38:17 - Found child process: 11084 Name: conhost.exe
+2023-08-07 13:38:17 - Found child process: 4860 Name: node.exe
+2023-08-07 13:38:17 - Stopping process 11084
+2023-08-07 13:38:17 - Send SIGINT 11084
+2023-08-07 13:38:17 - SIGINT to 11084 failed - Killing as fallback
+2023-08-07 13:38:17 - Stopping process 4860
+2023-08-07 13:38:17 - Send SIGINT 4860
+2023-08-07 13:38:17 - SIGINT to 4860 failed - Killing as fallback
+2023-08-07 13:38:17 - Stopping process 8552
+2023-08-07 13:38:17 - Send SIGINT 8552
+2023-08-07 13:38:17 - SIGINT to 8552 failed - Killing as fallback
+2023-08-07 13:38:17 - Stopping process 6468
+2023-08-07 13:38:17 - Send SIGINT 6468
+2023-08-07 13:38:17 - SIGINT to 6468 failed - Killing as fallback
+2023-08-07 13:38:17 - Stopping process 412
+2023-08-07 13:38:17 - Send SIGINT 412
+2023-08-07 13:38:17 - SIGINT to 412 failed - Killing as fallback
+2023-08-07 13:38:17 - Finished geolocalizacaoapi.exe
+2023-08-07 13:38:22 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-07 13:38:22 - Started 9628
+2023-08-07 14:46:19 - Stopping geolocalizacaoapi.exe
+2023-08-07 14:46:19 - ProcessKill 9628
+2023-08-07 14:46:19 - Found child process: 3992 Name: conhost.exe
+2023-08-07 14:46:19 - Found child process: 10000 Name: node.exe
+2023-08-07 14:46:19 - Stopping process 3992
+2023-08-07 14:46:19 - Send SIGINT 3992
+2023-08-07 14:46:19 - SIGINT to 3992 failed - Killing as fallback
+2023-08-07 14:46:19 - Found child process: 9924 Name: cmd.exe
+2023-08-07 14:46:19 - Found child process: 9172 Name: conhost.exe
+2023-08-07 14:46:19 - Found child process: 9976 Name: node.exe
+2023-08-07 14:46:20 - Stopping process 9172
+2023-08-07 14:46:20 - Send SIGINT 9172
+2023-08-07 14:46:20 - SIGINT to 9172 failed - Killing as fallback
+2023-08-07 14:46:20 - Stopping process 9976
+2023-08-07 14:46:20 - Send SIGINT 9976
+2023-08-07 14:46:20 - SIGINT to 9976 failed - Killing as fallback
+2023-08-07 14:46:20 - Stopping process 9924
+2023-08-07 14:46:20 - Send SIGINT 9924
+2023-08-07 14:46:20 - SIGINT to 9924 failed - Killing as fallback
+2023-08-07 14:46:20 - Stopping process 10000
+2023-08-07 14:46:20 - Send SIGINT 10000
+2023-08-07 14:46:20 - SIGINT to 10000 failed - Killing as fallback
+2023-08-07 14:46:20 - Stopping process 9628
+2023-08-07 14:46:20 - Send SIGINT 9628
+2023-08-07 14:46:20 - SIGINT to 9628 failed - Killing as fallback
+2023-08-07 14:46:20 - Finished geolocalizacaoapi.exe
+2023-08-07 14:46:50 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-07 14:46:50 - Started 5704
+2023-08-07 14:48:48 - Stopping geolocalizacaoapi.exe
+2023-08-07 14:48:48 - ProcessKill 5704
+2023-08-07 14:48:48 - Found child process: 9384 Name: conhost.exe
+2023-08-07 14:48:48 - Found child process: 9728 Name: node.exe
+2023-08-07 14:48:48 - Stopping process 9384
+2023-08-07 14:48:48 - Send SIGINT 9384
+2023-08-07 14:48:48 - SIGINT to 9384 failed - Killing as fallback
+2023-08-07 14:48:48 - Found child process: 840 Name: cmd.exe
+2023-08-07 14:48:48 - Found child process: 11192 Name: conhost.exe
+2023-08-07 14:48:48 - Found child process: 4752 Name: node.exe
+2023-08-07 14:48:48 - Stopping process 11192
+2023-08-07 14:48:48 - Send SIGINT 11192
+2023-08-07 14:48:48 - SIGINT to 11192 failed - Killing as fallback
+2023-08-07 14:48:49 - Stopping process 4752
+2023-08-07 14:48:49 - Send SIGINT 4752
+2023-08-07 14:48:49 - SIGINT to 4752 failed - Killing as fallback
+2023-08-07 14:48:49 - Stopping process 840
+2023-08-07 14:48:49 - Send SIGINT 840
+2023-08-07 14:48:49 - SIGINT to 840 failed - Killing as fallback
+2023-08-07 14:48:49 - Stopping process 9728
+2023-08-07 14:48:49 - Send SIGINT 9728
+2023-08-07 14:48:49 - SIGINT to 9728 failed - Killing as fallback
+2023-08-07 14:48:49 - Stopping process 5704
+2023-08-07 14:48:49 - Send SIGINT 5704
+2023-08-07 14:48:49 - SIGINT to 5704 failed - Killing as fallback
+2023-08-07 14:48:49 - Finished geolocalizacaoapi.exe
+2023-08-07 14:49:35 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-07 14:49:35 - Started 1972
+2023-08-08 18:09:44 - Stopping geolocalizacaoapi.exe
+2023-08-08 18:09:44 - ProcessKill 1972
+2023-08-08 18:09:45 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-08-08 18:11:04 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-08 18:11:05 - Started 3876
+2023-08-11 15:40:28 - Stopping geolocalizacaoapi.exe
+2023-08-11 15:40:28 - ProcessKill 3876
+2023-08-11 15:41:25 - Found child process: 3908 Name: conhost.exe
+2023-08-11 15:41:25 - Found child process: 3684 Name: node.exe
+2023-08-11 15:41:25 - Stopping process 3908
+2023-08-11 15:41:25 - Send SIGINT 3908
+2023-08-11 15:41:25 - SIGINT to 3908 failed - Killing as fallback
+2023-08-11 15:41:25 - Found child process: 3824 Name: cmd.exe
+2023-08-11 15:41:25 - Found child process: 3260 Name: conhost.exe
+2023-08-11 15:41:25 - Found child process: 3796 Name: node.exe
+2023-08-11 15:41:25 - Stopping process 3260
+2023-08-11 15:41:25 - Send SIGINT 3260
+2023-08-11 15:41:25 - SIGINT to 3260 failed - Killing as fallback
+2023-08-11 15:41:25 - Stopping process 3796
+2023-08-11 15:41:25 - Send SIGINT 3796
+2023-08-11 15:41:25 - SIGINT to 3796 failed - Killing as fallback
+2023-08-11 15:41:25 - Stopping process 3824
+2023-08-11 15:41:25 - Send SIGINT 3824
+2023-08-11 15:41:25 - SIGINT to 3824 failed - Killing as fallback
+2023-08-11 15:41:25 - Stopping process 3684
+2023-08-11 15:41:25 - Send SIGINT 3684
+2023-08-11 15:41:25 - SIGINT to 3684 failed - Killing as fallback
+2023-08-11 15:41:25 - Stopping process 3876
+2023-08-11 15:41:25 - Send SIGINT 3876
+2023-08-11 15:41:25 - SIGINT to 3876 failed - Killing as fallback
+2023-08-11 15:41:25 - Finished geolocalizacaoapi.exe
+2023-08-11 15:41:36 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:41:36 - Started 6992
+2023-08-11 15:42:00 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:42:00 - Started 6024
+2023-08-11 15:42:41 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:42:41 - Started 1796
+2023-08-11 15:43:05 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:43:05 - Started 3960
+2023-08-11 15:43:30 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:43:30 - Started 5616
+2023-08-11 15:43:45 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:43:45 - Started 7000
+2023-08-11 15:44:09 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:44:09 - Started 508
+2023-08-11 15:44:26 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:44:26 - Started 6212
+2023-08-11 15:44:35 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:44:35 - Started 508
+2023-08-11 15:44:50 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:44:50 - Started 2976
+2023-08-11 15:44:58 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:44:58 - Started 6384
+2023-08-11 15:45:14 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:45:14 - Started 6784
+2023-08-11 15:45:30 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:45:30 - Started 1628
+2023-08-11 15:45:39 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:45:39 - Started 3724
+2023-08-11 15:45:54 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:45:54 - Started 3856
+2023-08-11 15:46:03 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:46:03 - Started 5732
+2023-08-11 15:46:18 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:46:18 - Started 2932
+2023-08-11 15:46:35 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:46:35 - Started 2580
+2023-08-11 15:46:44 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:46:44 - Started 6664
+2023-08-11 15:46:59 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:46:59 - Started 3576
+2023-08-11 15:48:39 - Stopping geolocalizacaoapi.exe
+2023-08-11 15:48:39 - ProcessKill 3576
+2023-08-11 15:48:40 - Found child process: 6544 Name: conhost.exe
+2023-08-11 15:48:40 - Found child process: 5616 Name: node.exe
+2023-08-11 15:48:40 - Stopping process 6544
+2023-08-11 15:48:40 - Send SIGINT 6544
+2023-08-11 15:48:40 - SIGINT to 6544 failed - Killing as fallback
+2023-08-11 15:48:40 - Found child process: 408 Name: cmd.exe
+2023-08-11 15:48:40 - Found child process: 3508 Name: conhost.exe
+2023-08-11 15:48:40 - Found child process: 6248 Name: node.exe
+2023-08-11 15:48:40 - Stopping process 3508
+2023-08-11 15:48:40 - Send SIGINT 3508
+2023-08-11 15:48:40 - SIGINT to 3508 failed - Killing as fallback
+2023-08-11 15:48:40 - Stopping process 6248
+2023-08-11 15:48:40 - Send SIGINT 6248
+2023-08-11 15:48:40 - SIGINT to 6248 failed - Killing as fallback
+2023-08-11 15:48:40 - Stopping process 408
+2023-08-11 15:48:40 - Send SIGINT 408
+2023-08-11 15:48:40 - SIGINT to 408 failed - Killing as fallback
+2023-08-11 15:48:40 - Stopping process 5616
+2023-08-11 15:48:40 - Send SIGINT 5616
+2023-08-11 15:48:40 - SIGINT to 5616 failed - Killing as fallback
+2023-08-11 15:48:40 - Stopping process 3576
+2023-08-11 15:48:40 - Send SIGINT 3576
+2023-08-11 15:48:40 - SIGINT to 3576 failed - Killing as fallback
+2023-08-11 15:48:40 - Finished geolocalizacaoapi.exe
+2023-08-11 15:48:43 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:48:43 - Started 6992
+2023-08-11 15:49:40 - Stopping geolocalizacaoapi.exe
+2023-08-11 15:49:40 - ProcessKill 6992
+2023-08-11 15:49:40 - Found child process: 6028 Name: conhost.exe
+2023-08-11 15:49:40 - Found child process: 3812 Name: node.exe
+2023-08-11 15:49:40 - Stopping process 6028
+2023-08-11 15:49:40 - Send SIGINT 6028
+2023-08-11 15:49:40 - SIGINT to 6028 failed - Killing as fallback
+2023-08-11 15:49:40 - Found child process: 4316 Name: cmd.exe
+2023-08-11 15:49:40 - Found child process: 6800 Name: conhost.exe
+2023-08-11 15:49:40 - Found child process: 6508 Name: node.exe
+2023-08-11 15:49:40 - Stopping process 6800
+2023-08-11 15:49:40 - Send SIGINT 6800
+2023-08-11 15:49:40 - SIGINT to 6800 failed - Killing as fallback
+2023-08-11 15:49:40 - Stopping process 6508
+2023-08-11 15:49:40 - Send SIGINT 6508
+2023-08-11 15:49:40 - SIGINT to 6508 failed - Killing as fallback
+2023-08-11 15:49:40 - Stopping process 4316
+2023-08-11 15:49:40 - Process 4316 is already stopped
+2023-08-11 15:49:40 - Stopping process 3812
+2023-08-11 15:49:40 - Send SIGINT 3812
+2023-08-11 15:49:40 - SIGINT to 3812 failed - Killing as fallback
+2023-08-11 15:49:40 - Stopping process 6992
+2023-08-11 15:49:40 - Send SIGINT 6992
+2023-08-11 15:49:40 - SIGINT to 6992 failed - Killing as fallback
+2023-08-11 15:49:40 - Finished geolocalizacaoapi.exe
+2023-08-11 15:50:18 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:50:18 - Started 6000
+2023-08-11 15:53:34 - Stopping geolocalizacaoapi.exe
+2023-08-11 15:53:34 - ProcessKill 6000
+2023-08-11 15:53:34 - Found child process: 6172 Name: conhost.exe
+2023-08-11 15:53:34 - Found child process: 1084 Name: node.exe
+2023-08-11 15:53:34 - Stopping process 6172
+2023-08-11 15:53:34 - Send SIGINT 6172
+2023-08-11 15:53:34 - SIGINT to 6172 failed - Killing as fallback
+2023-08-11 15:53:34 - Found child process: 6252 Name: cmd.exe
+2023-08-11 15:53:34 - Found child process: 6240 Name: conhost.exe
+2023-08-11 15:53:34 - Found child process: 1136 Name: node.exe
+2023-08-11 15:53:34 - Stopping process 6240
+2023-08-11 15:53:34 - Send SIGINT 6240
+2023-08-11 15:53:34 - SIGINT to 6240 failed - Killing as fallback
+2023-08-11 15:53:34 - Stopping process 1136
+2023-08-11 15:53:34 - Send SIGINT 1136
+2023-08-11 15:53:34 - SIGINT to 1136 failed - Killing as fallback
+2023-08-11 15:53:34 - Stopping process 6252
+2023-08-11 15:53:34 - Send SIGINT 6252
+2023-08-11 15:53:34 - SIGINT to 6252 failed - Killing as fallback
+2023-08-11 15:53:34 - Stopping process 1084
+2023-08-11 15:53:34 - Send SIGINT 1084
+2023-08-11 15:53:34 - SIGINT to 1084 failed - Killing as fallback
+2023-08-11 15:53:34 - Stopping process 6000
+2023-08-11 15:53:34 - Send SIGINT 6000
+2023-08-11 15:53:34 - SIGINT to 6000 failed - Killing as fallback
+2023-08-11 15:53:34 - Finished geolocalizacaoapi.exe
+2023-08-11 15:53:53 - Starting C:\Program Files\nodejs\node.exe  --harmony c:\laragon\node_modules\node-windows\lib\wrapper.js --file c:\laragon\startServer.js --scriptoptions= --log "GeoLocalizacaoApi wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:53:53 - Started 5584
