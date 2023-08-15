@@ -4,6 +4,7 @@ verificar as dependências em
 - mapa
 - servidor
 
+utilizar o NODE
 npm i express
 npm i path
 npm i mssql
