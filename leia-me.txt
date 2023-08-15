@@ -5,6 +5,7 @@ verificar as dependências em
 - servidor
 
 utilizar o NODE
+npm init
 npm i express
 npm i path
 npm i mssql
