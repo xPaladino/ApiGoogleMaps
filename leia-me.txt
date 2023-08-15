@@ -4,4 +4,9 @@ verificar as dependências em
 - mapa
 - servidor
 
+npm i express
+npm i path
+npm i mssql
+
+
 instalar as mesmas para poder rodar
